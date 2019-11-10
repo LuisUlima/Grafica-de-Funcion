@@ -8,7 +8,7 @@
  *
  * @author Luis
  */
-package claces;
+package Clases;
 
 import javax.swing.JOptionPane;
 import org.nfunk.jep.JEP;     // CODIGO PARA IMPORTAR LAS FUNCIONES DE LA JEP

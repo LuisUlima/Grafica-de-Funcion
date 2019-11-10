@@ -8,7 +8,7 @@
  *
  * @author Luis
  */
-package claces;
+package Clases;
 
 
 public class metodo {
