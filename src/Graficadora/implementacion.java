@@ -9,7 +9,7 @@
  * @author Luis
  */
 //esta clase sirve simplemente para unir las clases "funcion" y "metodo"
-package Clases;
+package Graficadora;
 
 
 public class implementacion {

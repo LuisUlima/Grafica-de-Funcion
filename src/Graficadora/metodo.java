@@ -8,7 +8,7 @@
  *
  * @author Luis
  */
-package Clases;
+package Graficadora;
 
 
 public class metodo {

@@ -8,7 +8,7 @@
  *
  * @author Luis
  */
-package Clases;  // pakete en el q estamos trabajando
+package Graficadora;  // pakete en el q estamos trabajando
 
 import org.math.plot.Plot2DPanel; // CODIGO PARA IMPORTAR LAS FUNCIONES DE LA LIBRERIA MATPLOT Y PANEL
 import javax.swing.JOptionPane;
